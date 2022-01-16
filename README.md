@@ -1,5 +1,6 @@
 # -MLR-Predicting-price-of-a-car.
 Building a regression model that predicts price of a car based on existing data.
+
 Statsmodel.api was used for building the model.
 
 Data - ToyotaCorolla.csv
